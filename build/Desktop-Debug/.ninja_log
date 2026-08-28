@@ -1,0 +1,15 @@
+# ninja log v5
+82	1355	1787921316199066716	CMakeFiles/gui_control_client.dir/mainwindow.cpp.o	9026dd09680bdcab
+240	1377	1787920865843486217	CMakeFiles/gui_control_client.dir/gui_control_client_autogen/mocs_compilation.cpp.o	3ac1ae1c37f816b6
+1355	1676	1787921316516082073	gui_control_client	ac30de9c947dea72
+58	80	1787921314926005038	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/gui_control_client_autogen/mocs_compilation.cpp	3f962bbdfdbf56ea
+240	1396	1787920865863487265	CMakeFiles/gui_control_client.dir/ircguicontrolclient.cpp.o	b0752430d2334ebd
+58	80	1787921314926005038	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/gui_control_client_autogen/timestamp	3f962bbdfdbf56ea
+240	1377	1787920865844486269	CMakeFiles/gui_control_client.dir/main.cpp.o	f7354a0751efcd1f
+58	80	1787921314926005038	gui_control_client_autogen/mocs_compilation.cpp	3f962bbdfdbf56ea
+58	80	1787921314926005038	gui_control_client_autogen/timestamp	3f962bbdfdbf56ea
+2	56	0	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	2f5c0aa71494321e
+63	255	1787804825825069762	build.ninja	9c5343ca894e1bd4
+2	58	0	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	2f5c0aa71494321e
+2	56	0	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	2f5c0aa71494321e
+2	57	0	/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/cmake.verify_globs	2f5c0aa71494321e
