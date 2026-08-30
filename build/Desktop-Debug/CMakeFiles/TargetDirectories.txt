@@ -1,9 +1,0 @@
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/gui_control_client.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/rebuild_cache.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/list_install_components.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/install.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/install/local.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/install/strip.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/gui_control_client_autogen_timestamp_deps.dir
-/home/hoysong/irc_with_control_client/gui_control_client/build/Desktop-Debug/CMakeFiles/gui_control_client_autogen.dir

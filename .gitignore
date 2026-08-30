@@ -1,0 +1,21 @@
+# Build directories
+build/
+cmake-build-*/
+
+# Qt Creator user settings
+CMakeLists.txt.user*
+*.user
+*.autosave
+
+# Compiler output
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
